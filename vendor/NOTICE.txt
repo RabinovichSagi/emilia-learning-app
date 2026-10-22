@@ -1,0 +1,4 @@
+Optional local scanner dependencies; no photographs are transmitted to a CDN.
+OpenCV.js: @techstark/opencv-js (Apache-2.0), https://github.com/TechStark/opencv-js
+jscanify: MIT, https://github.com/puffinsoft/jscanify
+Copied from the exact npm lockfile versions. See their package license files.
